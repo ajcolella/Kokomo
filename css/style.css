@@ -1,0 +1,28 @@
+body {
+ margin: 0 auto !important;
+ padding-top: 20px;
+ float: none !important;
+ text-align: center;
+ width: 960px;
+}
+
+#sidebar {
+	padding-left: 20px;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+.table, th, td, col {
+    border: none;
+    border-top: 0px;
+    padding: 10px;
+}
+#headerTable {
+	font-weight: bold;
+	vertical-align: bottom;
+}
+th {
+    font-weight: bold;
+}​
